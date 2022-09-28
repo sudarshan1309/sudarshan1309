@@ -88,9 +88,9 @@
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imshubhy&show_icons=true&locale=en&layout=compact" alt="imshubhy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan1309&show_icons=true&locale=en&layout=compact" alt="sudarshan1309" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imshubhy&show_icons=true&locale=en" alt="imshubhy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshan1309&show_icons=true&locale=en" alt="sudarshan1309" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhy&" alt="imshubhy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan1309&" alt="sudarshan1309" /></p>
 
