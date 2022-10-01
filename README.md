@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [https://sudarshan1309.github.io/](https://sudarshan1309.github.io/)
+- 👨‍💻 All of my projects are available at [portfolio](https://sudarshan1309.github.io/)
 
 - 💬 Ask me about **Java , Spring , MySQL**
 
