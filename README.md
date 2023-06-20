@@ -29,7 +29,7 @@
 <!----------------social media connect------------->
 
 
-<p align="left"> <a href="https://twitter.com/sudarshan1309" target="blank"><img src="https://img.shields.io/twitter/follow/sudarshan1309?logo=twitter&style=for-the-badge" alt="sudarshan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mrsudarshan1" target="blank"><img src="https://img.shields.io/twitter/follow/mrsudarshan1?logo=twitter&style=for-the-badge" alt="sudarshan" /></a> </p>
 
 - 🌱 I’m currently learning **Java Backend**
 
@@ -61,7 +61,7 @@
     <a title="sshinde642@gmail.com" href="mailto:sshinde642@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sshinde642@gmail.com" />
     </a>
-       <a href="https://twitter.com/sudarshan1309">
+       <a href="https://twitter.com/mrsudarshan1">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/sudarshan1309" />
 </p>
 <br>
